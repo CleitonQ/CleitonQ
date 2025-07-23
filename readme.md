@@ -5,5 +5,5 @@
   
   ![Snake animation](https://github.com/CleitonQ/CleitonQ/blob/output/github-contribution-grid-snake.svg)
 
-  ![readme](https://github-readme-stats.vercel.app/api/pin/?username=CleitonQ&repo=CleitonQ&theme=react)](https://github.com/CleitonQ/CleitonQ)
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=CleitonQ&repo=CleitonQ&theme=react)](https://github.com/CleitonQ/CleitonQ)
 
