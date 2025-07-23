@@ -1,8 +1,10 @@
+<div>
+  <a href="https://github.com/CleitonQ">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=CleitonQ&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonQ&layout=compact&langs_count=7&theme=react" />
+  </a>
 
-### 🐍 Snake Game das Contribuições
+  [Snake animation](https://github.com/CleitonQ/CleitonQ/blob/output/github-contribution-grid-snake.svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CleitonQ/Snake/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CleitonQ/Snake/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/CleitonQ/Snake/output/github-snake.svg" />
-</picture>
+  ![readme](https://github-readme-stats.vercel.app/api/pin/?username=CleitonQ&repo=CleitonQ&theme=react)](https://github.com/CleitonQ/CleitonQ)
+</div>
