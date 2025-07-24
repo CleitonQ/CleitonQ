@@ -6,13 +6,16 @@
 
   <br/>
 
-  <img
-    alt="Snake animation"
-    src="https://github.com/CleitonQ/CleitonQ/blob/output/github-contribution-grid-snake.svg?raw=true"
-    style="max-width: 700px; margin-left: -4px;" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CleitonQ/CleitonQ/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/CleitonQ/CleitonQ/blob/output/github-contribution-grid-snake.svg?raw=true" />
+    <img alt="github contribution grid snake animation" src="https://github.com/CleitonQ/CleitonQ/blob/output/github-contribution-grid-snake.svg?raw=true" style="max-width: 700px; margin-left: -4px;" />
+  </picture>
 
   <div style="margin-top: -10px;">
     <h2>✅ Linguagens • Frameworks • Ferramentas ✅</h2>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,github,figma,git,typescript,vue,react" />
   </div>
 </div>
+
+
