@@ -4,9 +4,21 @@
 
 ---
 
-## 🚀 Tecnologias que domino
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vue,figma,git,vscode,github" />
+  <h2>🚀 Tecnologias que eu domino:</h2>
+
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=vue" title="Vue.js" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" style="pointer-events: none;" />
+
+</div>
 
 ---
 
