@@ -1,17 +1,25 @@
 name: Generate Snake
-
 on:
-  schedule:
-    - cron: "0 0 * * *" # roda todo dia à meia-noite
+  push:
   workflow_dispatch:
-
+  schedule:
+    - cron: "0 */6 * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
       - uses: Platane/snk@v3
         with:
-          github_user_name: CleitonQ
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            output/github-contribution-grid-snake.svg
-            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
