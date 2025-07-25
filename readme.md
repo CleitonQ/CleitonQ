@@ -45,6 +45,7 @@
   <img alt="snake animation" src="https://raw.githubusercontent.com/CleitonQ/CleitonQ/main/github-contribution-grid-snake.svg" />
 </picture>
 
+
 ---
 
 ## 📬 Me encontre aqui
