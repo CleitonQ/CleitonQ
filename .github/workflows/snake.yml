@@ -1,34 +1,27 @@
-name: Gera Snake
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # executa todos os dias à meia-noite UTC
   workflow_dispatch:
-  push:
-    branches: [ main ]
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Gerar snake (SVG)
-        uses: Platane/snk/svg-only@v3
+      - name: Generate the snake animation
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: CleitonQ
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg
 
-      - name: Publicar no branch output
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Push the generated files
+        uses: EndBug/add-and-commit@v9
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./dist
-          commit_message: Atualiza snake [skip ci]
+          default_author: github_actions
+          message: "Generated snake animation"
