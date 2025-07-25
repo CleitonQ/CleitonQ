@@ -40,9 +40,12 @@
 ## 🐍 Contribuições GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CleitonQ/CleitonQ/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CleitonQ/CleitonQ/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/CleitonQ/CleitonQ/output/github-contribution-grid-snake.svg" style="max-width: 700px; margin-left: -4px;" />
+  <source media="(prefers-color-scheme: dark)"
+         srcset="https://raw.githubusercontent.com/CleitonQ/CleitonQ/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+         srcset="https://raw.githubusercontent.com/CleitonQ/CleitonQ/output/github-snake.svg" />
+  <img alt="GitHub Snake"
+       src="https://raw.githubusercontent.com/CleitonQ/CleitonQ/output/github-snake.svg" />
 </picture>
 
 
