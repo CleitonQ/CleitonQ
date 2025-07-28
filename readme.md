@@ -53,9 +53,6 @@
    <a href="https://github.com/CleitonQ/portfolio" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/CleitonQ/devlinks" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/DevLinks-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </div>
 
 ---
