@@ -74,8 +74,7 @@
 
 ## 📬 Me encontre aqui
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cleitonq)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:cleiton.q@exemplo.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-green?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/15996295847)
 
 ![Disponível para estágio](https://img.shields.io/badge/Estágio-Disponível-green?style=for-the-badge&logo=github)
 
