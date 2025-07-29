@@ -24,10 +24,11 @@
 ---
 
 ## 📚 Em aprendizado
-- Webpack, Vite
-- Jest, Cypress
-- Acessibilidade
-- APIs REST
+- Vue.js, Rest.js, Next.js, React.js, Bootstrap
+- Flutter, Firebase, Mobile-first
+- VS Code, Git, Github, Figma
+- NPM, Node.js
+- Clean Code, SEO, Agíl 
 
 ---
 
