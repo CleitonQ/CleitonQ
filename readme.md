@@ -17,6 +17,7 @@
   <img src="https://skillicons.dev/icons?i=git" title="Git" style="pointer-events: none;" />
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" style="pointer-events: none;" />
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" style="pointer-events: none;" />
+   <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" style="pointer-events: none;" />
 
 </div>
 
