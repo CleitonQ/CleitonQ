@@ -34,26 +34,17 @@
 
 <div align="left">
   <h2>💼 Projetos em destaque</h2>
-  <a href="https://github.com/CleitonQ/portfolio" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/CleitonQ/rick_morty" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Rick & Morty-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/CleitonQ/devlinks" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/DevLinks-000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/CleitonQ/marcador_de_horas" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Marcador de Horas-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-   <a href="https://github.com/CleitonQ/portfolio" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=github&logoColor=white" />
+   <a href="https://github.com/CleitonQ/CleitonQ" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Snake README-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/CleitonQ/devlinks" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/DevLinks-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-   <a href="https://github.com/CleitonQ/portfolio" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/CleitonQ/devlinks" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/DevLinks-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-   <a href="https://github.com/CleitonQ/portfolio" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/CleitonQ" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Projeto-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
