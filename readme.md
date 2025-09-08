@@ -44,8 +44,8 @@
    <a href="https://github.com/CleitonQ/CleitonQ" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Snake README-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/CleitonQ" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Projeto-000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/to_do_app" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/To_Do_App-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
