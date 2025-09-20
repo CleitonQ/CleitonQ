@@ -29,7 +29,7 @@
 - VS Code, Git, Github, Figma
 - NPM, Node.js
 - Clean Code, SEO, Agíl
-- SQL
+- PostgreSQL, SQL Server
 
 ---
 
