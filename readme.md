@@ -1,6 +1,5 @@
-# 👨‍💻 Cleiton Queiroz — Desenvolvedor Front-End em transição
+# 👨‍💻 Cleiton Queiroz
 
-🎯 De suporte técnico para o mundo da programação. Buscando estágio ou vaga júnior em front-end!
 
 ---
 
